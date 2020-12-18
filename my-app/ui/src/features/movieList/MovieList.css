@@ -1,0 +1,34 @@
+.MovieList-Card {
+  width: 300px !important;
+  margin-left: 50px !important;
+  height: 350px !important;
+}
+
+.MovieList-Header {
+  height: 120px !important; 
+}
+
+
+@media only screen and (max-width: 768px) {
+  .MovieList-Card {
+    margin-left: 18px !important;
+  }
+}
+
+/*iphone 5*/
+@media screen and (device-aspect-ratio: 40/71) {
+  .MovieList-Card {
+    margin-left: 20px !important;
+    width: 250px !important;
+  }
+}
+
+/*iPhone 6 Plus:*/
+@media only screen 
+    and (device-width : 414px) 
+    and (device-height : 736px) 
+    and (-webkit-device-pixel-ratio : 3) {
+  .MovieList-Card {
+    margin-left: 45px !important;
+  }
+}

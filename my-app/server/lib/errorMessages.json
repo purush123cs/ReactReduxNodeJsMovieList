@@ -1,0 +1,5 @@
+{
+  "HEADER_CONTENT_TYPE": "Header content type needs to contain application/json",
+  "TRANSACTION_ID_GENERATION_ERR": "Error in generating Transaction Id",
+  "VALID_BODY_NOT_RECEIVED": "Valid body object not present in response received from Vendor"
+}

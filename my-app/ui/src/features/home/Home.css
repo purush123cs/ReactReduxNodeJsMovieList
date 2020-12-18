@@ -1,0 +1,32 @@
+.Home-Container {
+  margin-left: auto !important;
+  margin-right: auto !important; 
+}
+
+.Home-Row1 {
+  height: 100% !important;
+}
+
+.Home-Col1 {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
+.Home-Card {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 300px;
+}
+
+.Home-CardHeader {
+  text-align: center;
+}
+
+.form-control.is-valid, .was-validated .form-control:valid {
+  background-image: none !important;
+  border-color: lightgray !important;
+}
+
+.submitBtn {
+  text-align:center;
+}
